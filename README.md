@@ -1,2 +1,183 @@
-<h3>This is an educational project to practice my REST API and Python skills to fetch song lyrics and information from the Genius API with a Discord Bot. </h3>
-You can make a bot just like this one by making a Discord Developer account, registering a bot, and using my code here. NOTE: You will need to make a .env file to hold your personal Discord and Genius API tokens, however. Using this code for commercial purposes may violate the Genius API Terms of Service and Use so please refrain from doing so in a commercial manner.
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/mrsteph3/Audiophyle">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Audiophyle</h3>
+
+  <p align="center">
+    project_description
+    <br />
+    <a href="https://github.com/mrsteph3/Audiophyle"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/mrsteph3/Audiophyle">View Demo</a>
+    ·
+    <a href="https://github.com/mrsteph3/Audiophyle/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/mrsteph3/Audiophyle/issues">Request Feature</a>
+  </p>
+</p>
+
+
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+Here's a blank template to get started:
+**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
+`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+
+
+### Built With
+
+* []()
+* []()
+* []()
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/github_username/repo_name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/mrsteph3/Audiophyle/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Matthew Stephenson - mattstephenson64@gmail.com
+
+Project Link: [https://github.com/mrsteph3/repo_name](https://github.com/mrsteph3/Audiophyle)
+
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+
+* []()
+* []()
+* []()
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/mrsteph3/Audiophyle.svg?style=for-the-badge
+[contributors-url]: https://github.com/mrsteph3/Audiophyle/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mrsteph3/Audiophyle.svg?style=for-the-badge
+[forks-url]: https://github.com/mrsteph3/Audiophyle/network/members
+[stars-shield]: https://img.shields.io/github/stars/mrsteph3/Audiophyle.svg?style=for-the-badge
+[stars-url]: https://github.com/mrsteph3/Audiophyle/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mrsteph3/Audiophyle.svg?style=for-the-badge
+[issues-url]: https://github.com/mrsteph3/Audiophyle/issues
+[license-shield]: https://img.shields.io/github/license/mrsteph3/repo.svg?style=for-the-badge
+[license-url]: https://github.com/mrsteph3/Audiophyle/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/matthew-r-stephenson
