@@ -110,7 +110,7 @@ Project Link: [https://github.com/mrsteph3/Audiophyle](https://github.com/mrstep
 [stars-url]: https://github.com/mrsteph3/Audiophyle/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mrsteph3/Audiophyle.svg?style=for-the-badge
 [issues-url]: https://github.com/mrsteph3/Audiophyle/issues
-[license-shield]: https://img.shields.io/github/license/mrsteph3/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/mrsteph3/Audiophyle.svg?style=for-the-badge
 [license-url]: https://github.com/mrsteph3/Audiophyle/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/matthew-r-stephenson
