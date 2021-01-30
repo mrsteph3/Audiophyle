@@ -23,6 +23,9 @@
   <p align="center">
     This is an educational project to practice my REST API and Python skills to fetch song lyrics and information from the Genius API with a Discord Bot.
     <br />
+    <br /> You can add the bot to a server you own/moderate by clicking <a href="https://discord.com/api/oauth2/authorize?client_id=787472965465800705&permissions=3072&scope=bot ">here</a>
+    <br /> The bot only requires permissions for viewing text channels, reading messages, and sending messages.
+    <br />
     <a href="https://github.com/mrsteph3/Audiophyle"><strong>Explore the docs »</strong></a>
     <br />
     <br />
