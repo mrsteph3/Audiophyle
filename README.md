@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  ![project icon](https://github.com/mrsteph3/Audiophyle/blob/main/icon.png?raw=true)
+  <img src="icon.png" width="200" height="200" title="Project Icon">
   <h3 align="center">Audiophyle</h3>
 
   <p align="center">
