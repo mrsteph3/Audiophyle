@@ -17,11 +17,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-
+  ![project icon](https://github.com/mrsteph3/Audiophyle/blob/main/icon.png?raw=true)
   <h3 align="center">Audiophyle</h3>
 
   <p align="center">
-    This is an educational project to practice my REST API and Python skills to fetch song lyrics and information from the Genius API with a Discord Bot. You can make a bot just like this one by making a Discord Developer account, registering a bot, and using my code here. You will need to make a .env file to hold your personal Discord and Genius API tokens, however. Using this code for commercial purposes may violate the Genius API Terms of Service and Use so please refrain from doing so in a commercial manner.
+    This is an educational project to practice my REST API and Python skills to fetch song lyrics and information from the Genius API with a Discord Bot.
     <br />
     <a href="https://github.com/mrsteph3/Audiophyle"><strong>Explore the docs »</strong></a>
     <br />
