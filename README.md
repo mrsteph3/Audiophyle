@@ -86,7 +86,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Matthew Stephenson - matto@pm.me - matto#4803
+Matthew Stephenson - matto#8888
 
 Project Link: [https://github.com/mrsteph3/Audiophyle](https://github.com/mrsteph3/Audiophyle)
 
